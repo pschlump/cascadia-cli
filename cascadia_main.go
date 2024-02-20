@@ -15,8 +15,8 @@ import (
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/andybalholm/cascadia"
 	"github.com/mkideal/cli"
+	"github.com/pschlump/cascadia"
 	"golang.org/x/net/html"
 )
 
